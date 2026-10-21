@@ -6,7 +6,7 @@
 
 ## 🛒 Overview
 
-Online Store is a web project focused on creating a clean shopping experience with product browsing, cart interactions, and an e-commerce style interface.
+Online Store is a frontend e-commerce project focused on product discovery, cart interactions, responsive layouts, and a clean shopping experience.
 
 ## ✨ Features
 
@@ -16,6 +16,14 @@ Online Store is a web project focused on creating a clean shopping experience wi
 - 📱 Responsive storefront UI
 - ⚡ Interactive JavaScript components
 - 🎨 Custom HTML/CSS design
+
+## 🧩 What This Project Demonstrates
+
+- Semantic HTML structure
+- Responsive CSS layouts
+- Interactive UI with vanilla JavaScript
+- Component-style thinking without a frontend framework
+- E-commerce interface and user-flow design
 
 ## 🖼️ Screenshots
 
